@@ -1,5 +1,7 @@
-# Discord custom status displayer
-Discord custom status displayer. You can add playing, streaming, watching and listenig.
+# 🎓 Discord custom status displayer 🎓
+> Discord custom status displayer. You can add playing, streaming, watching and listenig.
+
+![Showcase](https://wheres-my-ta.co/CFC3a5.gif)
 
 ## Usage:
 1. Open install.bat
@@ -9,4 +11,4 @@ Discord custom status displayer. You can add playing, streaming, watching and li
 
 
 
-WARN: Using a selfbot is against TOS, It's not my fault if you get a ban when someone reports you
+`WARN: Using a selfbot is against TOS, It's not my fault if you get a ban when someone reports you`
