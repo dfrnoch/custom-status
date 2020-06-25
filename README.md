@@ -1,5 +1,5 @@
 # 🎓 Discord custom status displayer 🎓
-> Discord custom status displayer. You can add playing, streaming, watching and listenig.
+Discord custom status displayer. You can add playing, streaming, watching and listenig.
 
 ![Showcase](https://wheres-my-ta.co/CFC3a5.gif)
 
