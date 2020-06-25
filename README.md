@@ -8,7 +8,8 @@ Discord custom status displayer. You can add playing, streaming, watching and li
 2. Open start.bat
 3. All set :)
 
-
+## Settings:
+![Settings Showcase](https://wheres-my-ta.co/x4n5mR.png)
 
 
 `WARN: Using a selfbot is against TOS, It's not my fault if you get a ban when someone reports you`
