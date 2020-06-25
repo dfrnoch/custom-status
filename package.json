@@ -1,13 +1,13 @@
 {
   "name": "sniper",
   "version": "1.0.0",
-  "description": "Catch  nitro",
+  "description": "Nitro code sniper",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Sqostik#4383",
-  "license": "ISC",
+  "author": "lnx",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.19.2",
     "center-align": "^1.0.1",
