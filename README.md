@@ -1,5 +1,5 @@
-# 🎓 Discord custom status displayer 🎓
-Discord custom status displayer. You can add playing, streaming, watching and listenig.
+<h1 align="center">🎓 Discord custom status displayer 🎓</h1>
+<h3 align="center">Discord custom status displayer. You can add playing, streaming, watching and listenig.</h3>
 
 ## Usage:
 1. Configure settings in `config.json`
