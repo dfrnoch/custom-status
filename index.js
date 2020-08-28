@@ -55,7 +55,6 @@ if(message.length >= 100){
         }
     })}else if(stat === "listening"){
         setTitle(`Displaying status for ${client.user.tag} | Listening ${message}`);
-        console.log(" ")
         console.log(color.white('\n[') + color.yellow(' ? ') + color.white(']') + color.gray(` Displaying status for `) + color.white(client.user.tag) + color.gray(" | Listening ") + color.white(message));
         client.user.setPresence({
             game: {
@@ -64,7 +63,6 @@ if(message.length >= 100){
             }
         });}else if(stat === "playing"){
             setTitle(`Displaying status for ${client.user.tag} | Playing ${message}`);
-            console.log(" ")
             console.log(color.white('\n[') + color.yellow(' ? ') + color.white(']') + color.gray(` Displaying status for `) + color.white(client.user.tag) + color.gray(" | Playing ") + color.white(message));
             client.user.setPresence({
                 game: {
