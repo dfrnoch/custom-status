@@ -34,8 +34,8 @@ client.on('ready', async() => {
 	setTitle("Custom Status | Setup");
     console.log(color.white('[') + color.cyan(' § ') + color.white(']') + color.gray(' Discord Nitro Generator made by') + color.white(' LnX') + color.gray(' | Licensed under') + color.white(' MIT') + color.gray(' License'));
     console.log(color.white('[') + color.cyan(' § ') + color.white(']') + color.gray(' You can follow me on Github:') + color.white(' https://github.com/lnxcz'));
-let status = await question(color.white('\n[') + color.yellow(' ? ') + color.white(']') + color.gray(' Select what status you want to display (streaming, watching, playing, listening): '));
-let message = await question(color.white('[') + color.yellow(' ? ') + color.white(']') + color.gray(' Select message what you want to display: '));
+let status = await question(color.white('\n[') + color.yellow(' > ') + color.white(']') + color.gray(' Select what status you want to display (streaming, watching, playing, listening): '));
+let message = await question(color.white('[') + color.yellow(' > ') + color.white(']') + color.gray(' Select message what you want to display: '));
 var stat = await status.toLowerCase()
 
 if(message.length >= 100){
