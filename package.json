@@ -9,7 +9,7 @@
   "author": "lnx",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "center-align": "^1.0.1",
     "colors": "^1.4.0",
     "console-title": "^1.1.0",
